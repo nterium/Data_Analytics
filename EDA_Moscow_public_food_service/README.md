@@ -1,5 +1,7 @@
 # EDA of Moscow food services market
 
+NOTE: The information inside notebook is in Russian but you can assess the code at least. The translation is in process.
+
 ## The purpose
 
 Searching of patterns and revealing of insights which can be helpfull for the investors in choosing of buiseness model and place for foundation of coffeeshop like the "Central Park" in "Friends" sitcom.
