@@ -13,7 +13,13 @@ The assessment included:
 
 ## The result
 
+Generally, the test showed that the new recommender system had a negative impact to payment funnel, and should not be applied, however, due to the test discrepancy to the technical task as well as some data oddities, intersection with marketing activities, Cristmas and New Year the obtained results should not be trusted. It is strongly recommended to repeat the A/B-test.
 
+Recommendations:
+
+- try to avoid test intersection with marketing activities and hollidays: it can affect users behavior
+- check spliting users between parallel A/B-tests
+- check test compliance to technical task
 
 ## Data
 
