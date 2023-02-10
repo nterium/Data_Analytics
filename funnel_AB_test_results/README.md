@@ -1,5 +1,7 @@
 # A/B-test results assessment
 
+NOTE: The information inside notebook is in Russian but you can assess the code at least. The translation is in process.
+
 ## The purpose
 
 The A/B-test was conducted to assess the effectiveness of the new payment funnel. 
