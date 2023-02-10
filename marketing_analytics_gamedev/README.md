@@ -1,5 +1,7 @@
 # Marketing analytics of the mobile game "Space Brothers"
 
+NOTE: The information inside notebook is in Russian but you can assess the code at least. The translation is in process.
+
 ## The purpose
 
 The new mobile game "Space Brothers" has been launched. In this game users build their own space program and try to colonize The Galaxy.
