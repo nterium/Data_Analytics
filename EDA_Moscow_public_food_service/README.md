@@ -1,6 +1,7 @@
 # EDA of Moscow food services market
 
-<font color='Red'>**NOTE: The information inside notebook is in Russian but you can assess the code at least. The translation is in process.**</font>
+NOTE: The information inside notebook is in Russian but you can assess the code at least. The translation is in process.
+To display maps and choroplets, please, use service https://nbviewer.org/.
 
 ## The purpose
 
